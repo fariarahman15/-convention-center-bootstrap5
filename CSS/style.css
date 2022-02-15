@@ -11,6 +11,11 @@ body{
 
 /* main body section  */
 
+#toast-icon{
+    height: 20px;
+    width: 20px;
+}
+
 #package{
     border-radius: 25px;
 }
@@ -26,7 +31,6 @@ body{
     border-radius: 25px;
 
 }
-
 
 /* footer section */
 footer{
