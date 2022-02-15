@@ -28,5 +28,16 @@ body{
 }
 
 
-
 /* footer section */
+footer{
+    background: #0B0D17;
+}
+#apple-store{
+    width: 125px;
+    height: 40px;
+}
+
+#play-store{
+    width: 120px;
+    height: 40px;
+}
