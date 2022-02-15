@@ -1,7 +1,13 @@
 /* custom css  */
+body{
+    font-family: 'Poppins', sans-serif;
+}
 
 /* header section  */
-
+.carousel-caption h1{
+    font-size: 48px;
+    line-height: 58px;
+}
 
 /* main body section  */
 
