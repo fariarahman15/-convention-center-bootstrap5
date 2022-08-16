@@ -1,4 +1,5 @@
-# convention-center-bootstrap5
+# convention-center-bootstrap
 Milestone - 3 | Assignment - 3
 
-netlify link: https://conventioncenter-bootstrap-assignment3.netlify.app/
+netlify link: 
+https://conventioncenter-bootstrap-assignment3.netlify.app/
